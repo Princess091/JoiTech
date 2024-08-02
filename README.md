@@ -1,5 +1,6 @@
 # JoiTech
-Hello. Welcome to JoiTech.
+Hello.
+Welcome to JoiTech.
 This is the repository where I will be uploading all my code
 for my projects, as you have probably seen in my portfolio.
 
