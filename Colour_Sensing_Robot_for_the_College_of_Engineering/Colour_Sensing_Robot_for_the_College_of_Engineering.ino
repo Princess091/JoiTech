@@ -1,4 +1,4 @@
-// assign input pins to their respectuve digital pins
+// assign input pins to their respective digital pins
 const int S0 = 4;
 const int S1 = 5;
 const int S2 = 6;
