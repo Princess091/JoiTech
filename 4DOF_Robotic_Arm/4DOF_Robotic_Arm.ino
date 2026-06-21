@@ -5,10 +5,10 @@ Servo myServo2;
 Servo myServo3;
 Servo myServo4;
 
-int servoPin1 = 7;
+int servoPin1 = 4;
 int servoPin2 = 5;
-int servoPin3 = 9;
-int servoPin4 = 11;
+int servoPin3 = 6;
+int servoPin4 = 7;
 
 int VRx = A0;
 int VRy = A1;
